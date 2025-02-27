@@ -93,7 +93,7 @@
     "@ethersproject/abi": "^5.7.0",
     "@ethersproject/bignumber": "^5.7.0",
     "@ethersproject/contracts": "^5.7.0",
-    "@ethersproject/providers": "^5.7.2",
+    "@ethersproject/providers": "^5.8.0",
     "@ethersproject/units": "^5.7.0",
     "decimal.js": "^10.4.3",
     "ethers": "^5.7.2",
